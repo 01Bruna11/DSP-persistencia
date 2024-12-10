@@ -1,0 +1,15 @@
+LINK: https://www.figma.com/design/AjTsC02zaziBUavkcepVgO/Tarefa-2--?node-id=0-1&t=EAl14XAlvlwNI9DM-1
+
+O projeto foi desenvolvido utilizando o React que é uma biblioteca flexível e que 
+facilita a criação de interfaces dinâmicas. A arquitetura da 
+aplicação foi estruturada de forma modular e com foco em dispositivos móveis,
+ garantindo que a interface se adaptasse bem tanto em telas grandes quanto 
+ pequenas. Optei por uma navegação simples e intuitiva, com componentes 
+ reutilizáveis, para facilitar a manutenção do código.
+Em relação ao design, os labels foram pensados para serem curtos e claros, 
+como "Iniciar" e "Fornecedores", para que o usuário entendesse rapidamente as 
+opções disponíveis. Também priorizei a acessibilidade, garantindo contraste 
+adequado entre as cores, fontes legíveis e navegação por teclado.
+Em resumo, a escolha do React, a estrutura modular e a atenção aos detalhes 
+de usabilidade e acessibilidade foram fundamentais para criar uma aplicação 
+eficiente e amigável para todos os usuários. 
